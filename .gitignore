@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+publish/
+.vs/
+dados/
+**/dados/
+*.db
+*.sqlite
+*.csv
+*.zip
+*.exe
